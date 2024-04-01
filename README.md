@@ -3,7 +3,7 @@ Estou cursando o 7º semestre de Engenharia da Computação, tenho foco na parte
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-bressa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sofiabressa/)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](sofia.bressa@hotmail.com)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sofia.bressa@hotmail.com)
 
 
 ![sofiabressa GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiabressa&hide=prs,issues&show_icons=true&theme=jolly&count_private=true)
