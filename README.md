@@ -3,10 +3,6 @@
 <h1 align="center">Hi, I'm Sofia Bressa</h1>
 <h3 align="center">💻 Backend Developer focused on C#, .NET, and Azure</h3>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF1OGJkMHF4cjNldjU3bHg0aGxjZ3BxMWsyN2pqenYxbDhrZ3E3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/olr5oi9bxPVeV30Yye/giphy.webp" width="200" alt="Centered Giphy Image" />
-</p>
-
 ### About Me
 
 I'm a 22-year-old Computer Engineering student at IFSP (Instituto Federal de São Paulo), currently in the final stretch of my graduation.  
@@ -22,7 +18,11 @@ I also collaborate in tasks involving **CI/CD pipelines**, **automated deploymen
 - ☁️ Working with **Azure App Services**, **SQL Server**, and **Cloud deployments**  
 - ⚙️ Creating and improving **CI/CD pipelines** for efficient delivery  
 - 📊 Optimizing performance in backend services and databases
-  
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF1OGJkMHF4cjNldjU3bHg0aGxjZ3BxMWsyN2pqenYxbDhrZ3E3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/olr5oi9bxPVeV30Yye/giphy.webp" width="200" alt="Centered Giphy Image" />
+</p>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sofiabressa&show_icons=true&count_private=true&hide_border=true&title_color=ff8591&icon_color=00bfbf&text_color=c9d1d9&bg_color=36024d" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiabressa&layout=compact&hide_border=true&title_color=ff8591&text_color=c9d1d9&bg_color=36024d" />
